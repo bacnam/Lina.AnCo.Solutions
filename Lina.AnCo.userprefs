@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Bắc Nam" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Lina.AnCo.iOS/Info.plist">
+    <Files>
+      <File FileName="../Customs/Lina.Customs.Core/Services/AdsService.cs" Line="44" Column="44" />
+      <File FileName="../Customs/Lina.Customs.iOS/Services/iOSAdsService.cs" Line="4" Column="4" />
+      <File FileName="../Customs/Lina.Customs.Core/Models/AdsType.cs" Line="3" Column="3" />
+      <File FileName="../Lina.AnCo.iOS/Views/MainView.cs" Line="95" Column="95" />
+      <File FileName="../Customs/Lina.Customs.Core/Services/CTGlobalService.cs" Line="21" Column="21" />
+      <File FileName="../Lina.AnCo.iOS/AppDelegate.cs" Line="29" Column="29" />
+      <File FileName="../Customs/Lina.Customs.Core/Services/PlatformService.cs" Line="31" Column="31" />
+      <File FileName="../Customs/Lina.Customs.iOS/Services/iOSPlatformService.cs" Line="4" Column="4" />
+      <File FileName="../Lina.AnCo.Core/Services/GameService.cs" Line="24" Column="24" />
+      <File FileName="../Lina.AnCo.iOS/Views/GameView.cs" Line="3" Column="3" />
+      <File FileName="../Lina.AnCo.iOS/Views/GameOverView.cs" Line="24" Column="24" />
+      <File FileName="../Lina.AnCo.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
